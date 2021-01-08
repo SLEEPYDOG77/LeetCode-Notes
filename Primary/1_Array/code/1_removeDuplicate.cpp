@@ -23,13 +23,15 @@ public:
                 cur++;
             }
         }
+        cout << nums.size() << endl;
         return ++pre;
     }
 };
 
 int main(){
-    int arr[3] = {1,1,2};
-    vector<int> nums(arr, arr+3);
+    // int arr[3] = {1,1,2};
+    int arr[10] = {0,0,1,1,1,2,2,3,3,4};
+    vector<int> nums(arr, arr+5);
     Solution test;
     int result = test.removeDuplicates(nums);
     cout << "Result = " << result << endl;
