@@ -17,10 +17,9 @@ public:
             }
         }
         vector<int> res;
-        res.resize(len + 1);
-        res[0] = 1;
-        for (int i = 0; i < len; i++) {
-            res[i + 1] = digits[i];
+        res.push_back(1);
+        for (int num: digits) {
+            res.push_back(num);
         }
         return res;
     }
@@ -28,13 +27,13 @@ public:
 
 int main() {
     // int a[] = {4,3,2,1};
-    int a[] = {9,9,9,9};
-    vector<int> digits(a, a+4);
+    // int a[] = {9,9,9,9};
+    int a[] = {9};
+    vector<int> digits(a, a+1);
     Solution test;
     vector<int> result = test.plusOne(digits);
     for (int i = 0; i < result.size(); i++) {
         cout << result[i] << '\t';
     }
-
     return 0;
 }

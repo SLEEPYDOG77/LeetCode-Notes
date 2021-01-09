@@ -35,7 +35,7 @@
 - 移动零
 - 两数之和
 
-[字符串](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/2_String)
+字符串
 
 链表
 

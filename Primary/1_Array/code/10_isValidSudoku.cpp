@@ -148,7 +148,7 @@ int main() {
         {'.','.','.','.','8','.','.','7','9'},
     };
     Solution test;
-    bool result = test.isValidSudoku(board);
+    bool result = test.isValidSudoku_1(board);
     cout << "result = " << result << endl;
     return 0;
 }
