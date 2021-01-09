@@ -30,10 +30,12 @@
 - [旋转数组](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/3_%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md)
 - [存在重复元素](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/4_%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D.md)
 - [只出现一次的数字](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/5_%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
-- 两个数组的交集 II
-- 加一
-- 移动零
-- 两数之和
+- [两个数组的交集 II](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/6_%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%202.md)
+- [加一](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/7_%E5%8A%A0%E4%B8%80.md)
+- [移动零](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/8_%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
+- [两数之和](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/9_%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [有效的数独](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/10_%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
+- [旋转图像](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/11_%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 
 字符串
 
