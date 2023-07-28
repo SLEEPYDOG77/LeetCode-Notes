@@ -37,9 +37,9 @@
 - [有效的数独](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/10_%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
 - [旋转图像](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/1_Array/notes/11_%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 
-字符串
+[字符串](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/2_String)
 
-链表
+[链表](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/3_LinkList)
 
 树
 
