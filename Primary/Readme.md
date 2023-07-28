@@ -39,13 +39,36 @@
 
 [字符串](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/2_String)
 
+- [反转字符串](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/1_%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [整数反转](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/2_%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
+- [字符串中的第一个唯一字符](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/3_%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.md)
+- [有效的字母异位词](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/4_%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E5%91%B3%E8%AF%8D.md)
+- [验证回文字符串](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/5_%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [字符串转换整数（atoi）](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/6_%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%EF%BC%88atoi%EF%BC%89.md)
+- [实现strStr()](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/7_%E5%AE%9E%E7%8E%B0strStr().md)
+- [外观数列](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/8_%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md)
+- [最长公共前缀](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/2_String/notes/9_%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
+
 [链表](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/3_LinkList)
 
-树
+- [删除链表中的节点](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/3_LinkList/1_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
+- [删除链表的倒数第N个节点](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/3_LinkList/2_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+- [反转链表](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/3_LinkList/3_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+- [合并两个有序链表](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/3_LinkList/4_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+- [回文链表](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/3_LinkList/5_%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)
+- [环形链表](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/3_LinkList/6_%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
 
-排序和搜索
+[树](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/4_Tree)
 
-动态规划
+- [二叉树的最大深度](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/4_Tree/1_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
+- [验证二叉搜索树](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/4_Tree/2_%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+- [对称二叉树](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/4_Tree/3_%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+- [二叉树的层次遍历](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/4_Tree/4_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md)
+- [将有序数组转换为二叉搜索树](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/4_Tree/5_%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+
+[排序和搜索](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/5_Sort%20%26%20Search)
+
+[动态规划](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/6_Dynamic%20Programming)
 
 设计问题
 
