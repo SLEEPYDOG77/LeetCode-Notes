@@ -68,7 +68,15 @@
 
 [排序和搜索](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/5_Sort%20%26%20Search)
 
+- [合并两个有序数组](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/5_Sort%20%26%20Search/1_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+- [第一个错误的版本](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/5_Sort%20%26%20Search/2_%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md)
+
 [动态规划](https://github.com/SLEEPYDOG77/LeetCode-Notes/tree/develop/Primary/6_Dynamic%20Programming)
+
+- [爬楼梯](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/6_Dynamic%20Programming/1_%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+- [买卖股票的最佳时机](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/6_Dynamic%20Programming/2_%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
+- [最大子序和](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/6_Dynamic%20Programming/3_%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
+- [打家劫舍](https://github.com/SLEEPYDOG77/LeetCode-Notes/blob/develop/Primary/6_Dynamic%20Programming/4_%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
 
 设计问题
 
